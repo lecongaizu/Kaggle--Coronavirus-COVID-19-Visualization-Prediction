@@ -12,7 +12,7 @@
 * Bar Charts
 * US Testing Data
 * Mobility Data for Hotspots
-* 
+
 #### Report
 Check out the Report.html file for all the Visualizations and the Conclusion section for the anwers to the questions posed.
 
